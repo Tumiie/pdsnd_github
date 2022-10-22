@@ -2,7 +2,6 @@
 
 ### Date created
 Project created on Saturday, 22/10/2022
-Timestamp is 22:13
 
 ### Project Title
 GitHub repository for previous bikeshare project
